@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack Devlopment**
 
-- 💬 Ask me about **Web Devlopment**
+- 💬 Ask me about **HTML CSS JS BOOTSTAP JQUERY PHP MySql**
 
 - 📫 How to reach me **birengohel01111@gmail.com**
 
